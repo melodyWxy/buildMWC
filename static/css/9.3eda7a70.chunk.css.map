@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,YACI,eAAgB,CAChB,iBACJ,CAEA,mBACI,WACJ,CAEA,mBACI,UACJ","file":"9.3eda7a70.chunk.css","sourcesContent":[".login-form {\n    max-width: 300px;\n    margin: 200px auto;\n}\n\n.login-form-forgot {\n    float: right;\n}\n\n.login-form-button {\n    width: 100%;\n}"]}

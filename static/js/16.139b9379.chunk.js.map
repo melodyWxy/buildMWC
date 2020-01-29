@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/ClassVideo/index.js"],"names":["ClassVideo","props"],"mappings":"mIAAA,2BAWeA,UATf,SAAoBC,GAChB,OACI","file":"static/js/16.139b9379.chunk.js","sourcesContent":["import React from 'react';\n\nfunction ClassVideo(props){\n    return (\n        <>\n            classVideo\n        </>\n    )\n}\n\n\nexport default ClassVideo;"],"sourceRoot":""}

@@ -1,0 +1,2 @@
+(this["webpackJsonpmelody-world-client"]=this["webpackJsonpmelody-world-client"]||[]).push([[16],{699:function(e,n,t){"use strict";t.r(n);var l=t(0),a=t.n(l);n.default=function(e){return a.a.createElement(a.a.Fragment,null,"classVideo")}}}]);
+//# sourceMappingURL=16.139b9379.chunk.js.map
